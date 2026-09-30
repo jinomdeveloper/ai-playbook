@@ -29,7 +29,9 @@ Interviews the user in detail about the feature, then writes the plan to `worksp
 Implements `workspace/plan.md`, documents the API, and records changes in `CHANGELOG.md`.
 - DO: Implement exactly what the plan specifies.
 - DON'T: Edit the plan, except to mark items as done.
-- DONE: All unit tests pass.
+- DONE: 
+  - All unit tests pass.
+  - API Documented
 - SKILLS: @/skills/developer
 
 #### 3. Security
